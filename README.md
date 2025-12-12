@@ -40,8 +40,8 @@ The dashboard is designed from an FP&A and management reporting perspective, ena
 
 ## Repository Contents
 .
-├── Dashboard_Screenshots/
-├── Mercedes_Sales_Dashboard.pbix
+├── Excel Raw Data
+├── PowerBi Mercedes_Sales_Dashboard.pbix
 └── README.md
 
 ## ⚠️ Disclaimer
